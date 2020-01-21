@@ -4,5 +4,6 @@ int main(void){
     printf("hello you !\n");
 }
 
-# nowy komentarz
+#nowy komentarz
 
+#drugi komentarz 
